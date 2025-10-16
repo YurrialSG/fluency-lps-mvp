@@ -1,0 +1,498 @@
+{
+    "Design": [
+      {
+        "name": "Erick M.",
+        "link": "/mentores/mentor/?nome=erick-mazer",
+        "image": "erick-mazer-design",
+        "company": "icon-Nubank-design",
+        "job": "Sr. Designer at Nubank",
+        "description": "Senior Staff Product Designer at Nubank. Já atuou em empresas como Zocprint, Havas Digital, entre outras."
+      },
+      {
+        "name": "Veronica S.",
+        "link": "/mentores/mentor/?nome=veronica-sartori",
+        "image": "veronica-sartori-design",
+        "company": "icon-Google-design",
+        "job": "UX Solution at Google",
+        "description": "UX Solution Engineer at Google. Já atuou em empresas como Banco Bradesco, Fiocruz, entre outras."
+      },
+      {
+        "name": "Lucas O.",
+        "link": "/mentores/mentor/?nome=lucas-otsuka",
+        "image": "lucas-otsuka-design",
+        "company": "icon-Amazon-design",
+        "job": "Sr. Designer at Amazon",
+        "description": "Sr. Design Technologist at Amazon. Já atuou em empresas como QuintoAndar, Udacity, Taqtile entre outras."
+      },
+      {
+        "name": "Camila T.",
+        "link": "/mentores/mentor/?nome=camila-teixeira",
+        "image": "camila-teixeira-design",
+        "company": "icon-Mercado-livre-design",
+        "job": "UX Lead at Mercado Livre",
+        "description": "UX Lead LATAM at Mercado Pago. Já atuou em empresas como Despegar, C6 Bank, Guiabolso, entre outras."
+      },
+      {
+        "name": "Vitor A.",
+        "link": "/mentores/mentor/?nome=vitor-amaral",
+        "image": "vitor-amaral-design",
+        "company": "icon-Nubank-design",
+        "job": "Sr. Designer at Nubank",
+        "description": "Senior Product Designer at Nubank. Já atuou em empresas como Loft, PagSeguro, Letras, entre outras."
+      },
+      {
+        "name": "Murilo M.",
+        "link": "/mentores/mentor/?nome=murilo-muniz",
+        "image": "murilo-muniz-design",
+        "company": "icon-Picpay-design",
+        "job": "Design at PicPay",
+        "description": "Product Design Manager at PicPay. Já atuou em empresas como Adianta, Quanto, entre outras."
+      },
+      {
+        "name": "Luiz B.",
+        "link": "/mentores/mentor/?nome=luiz-bordim",
+        "image": "luiz-bordim-design",
+        "company": "icon-Warren-design",
+        "job": "Design at Warren",
+        "description": "Design Manager at Warren Brasil. Já atuou em empresas como Descomplica, XP Investimentos, Huge, entre outras."
+      },
+      {
+        "name": "Isabela N.",
+        "link": "/mentores/mentor/?nome=isabela-nevo",
+        "image": "isabela-nevo-design",
+        "company": "icon-Xp-design",
+        "job": "Design at XP Inc.",
+        "description": "Product Design at XP Inc. Já atuou em empresas como Senior Sistemas, Ambev Tech, entre outras."
+      },
+      {
+        "name": "Thiago C.",
+        "link": "/mentores/mentor/?nome=thiago-cataldi",
+        "image": "thiago-cataldi-design",
+        "company": "icon-Nubank-design",
+        "job": "Design at Nubank",
+        "description": "Staff Product Design at Nubank. Já atuou em empresas como 99, Arizona, Wefit, entre outras."
+      }
+    ],
+    "Ciência de Dados": [
+      {
+        "name": "João B.",
+        "link": "/mentores/mentor/?nome=joao-bosco",
+        "image": "joao-bosco-ds",
+        "company": "icon-Loft-ds",
+        "job": "Data Science at Loft",
+        "description": "Data Analytics at Andela. Já atuou em empresas como Loft, Pipefy, Accenture, entre outras."
+      },
+      {
+        "name": "Matheus F.",
+        "link": "/mentores/mentor/?nome=matheus-facure",
+        "image": "matheus-facure-ds",
+        "company": "icon-Nubank-ds",
+        "job": "Data Science at Nubank",
+        "description": "Staff Data Scientist at Nubank. Já foi professor na FIA - Fundação Instituto de Administração e pesquisador."
+      },
+      {
+        "name": "Lucas S.",
+        "link": "/mentores/mentor/?nome=lucas-silva",
+        "image": "lucas-silva-ds",
+        "company": "icon-Wildfire-ds",
+        "job": "Data Science at Wildlife",
+        "description": "Interessado na criação de soluções que realmente impactam no negócio."
+      },
+      {
+        "name": "Leandro Z.",
+        "link": "/mentores/mentor/?nome=leandro-zanon",
+        "image": "leandro-zanon-ds",
+        "company": "icon-Itau-ds",
+        "job": "Data Science at Itaú",
+        "description": "Senior Data Scientist at Itaú. Já atuou em empresas como PicPay, Propz, entre outras."
+      },
+      {
+        "name": "Allan B.",
+        "link": "/mentores/mentor/?nome=allan-bravos",
+        "image": "allan-bravos-ds",
+        "company": "icon-Americanas-ds",
+        "job": "Head of Data at Americanas",
+        "description": "Head of Data at Americanas. Já atuou em empresas como James Delivery, Banco Toyota e Governo Estadual de São Paulo."
+      },
+      {
+        "name": "Bruno V.",
+        "link": "/mentores/mentor/?nome=bruno-vieira",
+        "image": "bruno-vieira-ds",
+        "company": "icon-Picpay-ds",
+        "job": "Data Science at PicPay",
+        "description": "Senior Data Scientist at PicPay. Já atuou em empresas como Stone, entre outras."
+      },
+      {
+        "name": "Anderson C.",
+        "link": "/mentores/mentor/?nome=anderson-cordeiro",
+        "image": "anderson-cordeiro-ds",
+        "company": "icon-Globo-ds",
+        "job": "Data Science at Globo",
+        "description": "Senior Data Scientist at Globo. Já atuou como professor em diversas faculdades: UERJ, Infnet, entre outras."
+      }
+    ],
+    "Gestão de Produtos": [
+      {
+        "name": "Bianca L.",
+        "link": "/mentores/mentor/?nome=bianca-letti",
+        "image": "bianca-letti-product",
+        "company": "icon-Amazon-product",
+        "job": "Product at Amazon",
+        "description": "Product Manager Technical na Amazon, focada na parte de sellers. Amo o universo da computação e inovação. Contem comigo para apoiar na jornada de vocês!"
+      },
+      {
+        "name": "Thomás C.",
+        "link": "/mentores/mentor/?nome=thomas-camargo",
+        "image": "thomas-camargo-product",
+        "company": "icon-Google-product",
+        "job": "UX Solution at Google",
+        "description": "Hoje estou trabalhando como UX Solution Engineer no Google ajudando empresas a alcançar um próximo nível na transformação. Experiências em design e publicidade."
+      },
+      {
+        "name": "Hiago L.",
+        "link": "/mentores/mentor/?nome=hiago-lobato",
+        "image": "hiago-lobato-product",
+        "company": "icon-Nubank-product",
+        "job": "Sr. Product at Nubank",
+        "description": "Senior Product Manager at Nubank. Já atuou em empresas como Dasa, PagSeguro, Grupo Boticário, entre outras."
+      },
+      {
+        "name": "Gabriel T.",
+        "link": "/mentores/mentor/?nome=gabriel-taveira",
+        "image": "gabriel-taveira-product",
+        "company": "icon-Meta-product",
+        "job": "Mentor at Meta",
+        "description": "Senior Software Engineer na Meta. Já atuou em Engenharia de Software em empresas invoadoras como Zé Delivery, e em mais tradicionais como a Ambev.."
+      },
+      {
+        "name": "Juliana M.",
+        "link": "/mentores/mentor/?nome=juliana-mello",
+        "image": "juliana-mello-product",
+        "company": "icon-Picpay-product",
+        "job": "Product at PicPay",
+        "description": "Senior Product Manager at PicPay. Já atuou em empresas como SumUp, Accenture, Zap S/A, entre outras."
+      },
+      {
+        "name": "Isadora M.",
+        "link": "/mentores/mentor/?nome=isadora-monteiro",
+        "image": "isadora-monteiro-product",
+        "company": "icon-Ze-delivery-product",
+        "job": "GPM at Zé Delivery",
+        "description": "Group Product Manager at Zé Delivery. Já atuou em empresas como SumUp, Liv Up, 99Jobs, entre outras."
+      },
+      {
+        "name": "Tercio C.",
+        "link": "/mentores/mentor/?nome=tercio-cassiano",
+        "image": "tercio-cassiano-product",
+        "company": "icon-Quintoandar-product",
+        "job": "Product at QuintoAndar",
+        "description": "Product Manager at QuintoAndar. Já atuou em empresas como Revelo, GR1D, Wiz Soluções, entre outras."
+      },
+      {
+        "name": "João S.",
+        "link": "/mentores/mentor/?nome=joao-seraphim",
+        "image": "joão-seraphim-product",
+        "company": "icon-Creditas-product",
+        "job": "Sr. Product at Creditas",
+        "description": "Product Manager com mais de 8 anos de experiência, forte experiência em e-commerce e Varejo, e também nos mercados de Serviços, SaaS, Logística e Fintech."
+      },
+      {
+        "name": "Fernanda C.",
+        "link": "/mentores/mentor/?nome=fernanda-colopy",
+        "image": "fernanda-colopy-product",
+        "company": "icon-Quintoandar-product",
+        "job": "Product at QuintoAndar",
+        "description": "Tenho grande experiência em produtos digitais no varejo (Americanas e Grupo Boticário), e atualmente vivencio uma experiência no QuintoAndar."
+      }
+    ],
+    "Programação": [
+      {
+        "name": "Odair B.",
+        "link": "/mentores/mentor/?nome=odair-bonin",
+        "image": "odair-bonin-programming",
+        "company": "icon-Nubank-programming",
+        "job": "Tech Manager at Nubank",
+        "description": "Mais de 18 anos trabalhando em desenvolvimento de software como desenvolvedor. Nos últimos 4 anos expandi minha carreira para liderança ágil e instrução profissional."
+      },
+      {
+        "name": "Marianna K.",
+        "link": "/mentores/mentor/?nome=marianna-kinuyo",
+        "image": "marianna-kinuyo-programming",
+        "company": "icon-Nexo-programming",
+        "job": "Developer at Nexo Jornal",
+        "description": "Web Developer at Nexo Jornal. Já trabalhou em empresas como RCKT, entre outras."
+      },
+      {
+        "name": "Robson A.",
+        "link": "/mentores/mentor/?nome=robson-alves",
+        "image": "robson-alves-programming",
+        "company": "icon-Loft-programming",
+        "job": "Developer at Loft",
+        "description": "Senior Software Engineer at Loft. Já atuou em empresas como OLX Brasil, Fastdezine, Donuz, entre outras."
+      },
+      {
+        "name": "Matheus S.",
+        "link": "/mentores/mentor/?nome=matheus-souza",
+        "image": "matheus-souza-programming",
+        "company": "icon-Townsq-programming",
+        "job": "Developer at TownSq",
+        "description": "Engineering Manager at TownSq. Já trabalhou em empresas como Proatek, Dell, TOTVS, entre outras."
+      },
+      {
+        "name": "Henrique A.",
+        "link": "/mentores/mentor/?nome=henrique-alves",
+        "image": "henrique-alves-programming",
+        "company": "icon-Loft-programming",
+        "job": "Developer at Loft",
+        "description": "Senior Software Engineer at Loft. Já trabalhou em empresas como dti digital, entre outras."
+      },
+      {
+        "name": "Lucas C.",
+        "link": "/mentores/mentor/?nome=lucas-c",
+        "image": "lucas-c-programming",
+        "company": "icon-Picpay-programming",
+        "job": "Tech Manager at PicPay",
+        "description": "20 anos de experiência juntando educação e tecnologia. Hoje atua como Tech Manager no PicPay."
+      },
+      {
+        "name": "Vinícius C.",
+        "link": "/mentores/mentor/?nome=vinicius-cardozo",
+        "image": "vinicius-cardozo-programming",
+        "company": "icon-Paypal-programming",
+        "job": "Lead Engineer at PayPal",
+        "description": "Lead Engineer at PayPal. Já atuou em empresas como ThoughtWorks, CI&T, Stefanini, entre outras."
+      },
+      {
+        "name": "Amanda G.",
+        "link": "/mentores/mentor/?nome=amanda-gedra",
+        "image": "amanda-gedra-programming",
+        "company": "icon-Catraca-livre-programming",
+        "job": "Developer at Catraca Livre",
+        "description": "Web Development at Catraca Livre. Já atuou em empresas como Nexo Jornal, Agência Mural, entre outras."
+      },
+      {
+        "name": "Roberto J.",
+        "link": "/mentores/mentor/?nome=roberto-junior",
+        "image": "roberto-junior-programming",
+        "company": "icon-Loadsmart-programming",
+        "job": "Eng Manager at Loadsmart",
+        "description": "Atualmente sou Engineering Manager, liderando times cross-funcionais de Frontend, Backend, Machine Learning, Data Engineering e SRE."
+      },
+      {
+        "name": "Anderson C.",
+        "link": "/mentores/mentor/?nome=anderson-carubelli",
+        "image": "anderson-carubelli-programming",
+        "company": "icon-Exame-programming",
+        "job": "Head at EXAME",
+        "description": "Head of Development at Exame. Já atuou em empresas como Dasa, Bionexo, entre outras."
+      }
+    ],
+    "Business": [
+      {
+        "name": "Paloma C.",
+        "image": "paloma-crociati-support",
+        "company": "icon-Nubank-support",
+        "job": "Talent Acquisition at Nubank",
+        "description": "Talent Acquisition Analyst at Nubank. Já trabalhou em empresas Itáu, Soulan, entre outras."
+      },
+      {
+        "name": "Priscila A.",
+        "image": "priscila-alcassa-support",
+        "company": "icon-Revelo-support",
+        "job": "Carreer Consultant at Revelo",
+        "description": "Carreer Consultant at Revelo. Já trabalhou em empresas Foxtime, d’hire, entre outras."
+      },
+      {
+        "name": "Matheus F.",
+        "image": "matheus-fonseca-support",
+        "company": "icon-Movile-support",
+        "job": "Human Resources at Movile",
+        "description": "Human Resources Manager at Movile. Já trabalhou em empresas Smart Comms, Learn HR, entre outras."
+      },
+      {
+        "name": "Keila P.",
+        "image": "keila-pasklan-support",
+        "company": "icon-Stefanini-support",
+        "job": "Culture & People at Stefanini",
+        "description": "Culture & People at Stefanini. Já trabalhou em empresas Lopes Consultoria, Habib’s, entre outras."
+      },
+      {
+        "name": "Cibele S.",
+        "image": "cibele-stefani-support",
+        "company": "icon-Favo-support",
+        "job": "People Experience at Favo",
+        "description": "Sênior People Experience at Favo. Já trabalhou em empresas Skore, CreativeDrive, entre outras."
+      },
+      {
+        "name": "Danielle R.",
+        "image": "danielle-rosas-support",
+        "company": "icon-Dunnhumbly-support",
+        "job": "HR Business Parter at dunnhumbly",
+        "description": "HR Business Parter at dunnhumbly. Já trabalhou em empresas Dedalus, Cia de Talentos, entre outras."
+      },
+      {
+        "name": "Bruno G.",
+        "image": "bruno-g-support",
+        "company": "icon-Stripe-support",
+        "job": "People & Finance Ops at Stripe",
+        "description": "People and Finance Ops at Stripe. Já trabalhou em empresas como Mazars, EY, entre outras."
+      },
+      {
+        "name": "Rafael R.",
+        "image": "rafael-r-support",
+        "company": "icon-Nubank-support",
+        "job": "Recruitment Specialist at Nubank",
+        "description": "Talent Acquistion Specialist at Nubank. Já trabalhou em empresas como ESCALE, Passei Direto, entre outras."
+      }
+    ],
+    "Marketing": [
+      {
+        "name": "Fernanda R.",
+        "image": "fernanda-rocha-support",
+        "company": "icon-Olist-support",
+        "job": "Coordenadora de Product Marketing at Olist",
+        "description": "Mais de 8 anos de experiência em marketing em startup de hiper crescimento no segmento de e-commerce."
+      },
+      {
+        "name": "Clarice N.",
+        "image": "clarice-nassar-support",
+        "company": "icon-Nubank-support",
+        "job": "Senior Product Manager at Nubank",
+        "description": "Senior Product Manager at Nubank, já atuou em empresas como Ambev, Austral Education Group, entre outras."
+      },
+      {
+        "name": "Danilo R.",
+        "image": "danilo-roselli-support",
+        "company": "icon-Mercado-Livre-support",
+        "job": "Product Manager at Mercado Livre",
+        "description": "8 anos em produtos digitais, empreendendo e atuando em produto em empresas como Unico, Revelo, Guiabolso e atualmente no Mercado Livre."
+      },
+      {
+        "name": "Pedro B.",
+        "image": "pedro-blumenschein-support",
+        "company": "icon-Bitpanda-support",
+        "job": "Sr. Product Manager at Bitpanda",
+        "description": "Senior Product Manager at Bitpanda, com experiencia no Brasil e no exterior, em Unicórnios e Startups. Atuandohoje no segmento de Fintech e Crypto exchange."
+      },
+      {
+        "name": "Patricia T.",
+        "image": "patricia-torato-support",
+        "company": "icon-Solides-support",
+        "job": "Group Product Manager at Sólides",
+        "description": "16 anos de experiência em negócios, inovação e startups, sendo 6 anos na área de produtos digitais."
+      },
+      {
+        "name": "Gustavo L.",
+        "image": "gustavo-loterio-support",
+        "company": "icon-Grupo-Boticario-support",
+        "job": "Group Product Manager at Grupo Boticário",
+        "description": "Atuo há 06 anos com gestão de produtos digitais e já passei por empresas líderes em seus setores, como Vivo e Ebanx. Atualmente lidero o time de produto de Banking do Grupo Boticário."
+      },
+      {
+        "name": "Amanda F.",
+        "image": "amanda-farias-support",
+        "company": "icon-RX-PRO-support",
+        "job": "Product Manager at RX PRO",
+        "description": "Atuação há 7 anos na área de Product Management, e 11 anos na área de digital, com forte background em marketing, growth e UX"
+      }
+    ],
+    "Default": [
+      {
+        "name": "Erick M.",
+        "link": "/mentores/mentor/?nome=erick-mazer",
+        "image": "Erick-mazer-home",
+        "company": "Nubank-home",
+        "job": "Sr. Designer at Nubank",
+        "description": "Senior Staff Product Designer at Nubank. Já atuou em empresas como Zocprint, Havas Digital, entre outras."
+      },
+      {
+        "name": "Bianca L.",
+        "link": "/mentores/mentor/?nome=bianca-letti",
+        "image": "Bianca-letti-home",
+        "company": "Amazon-home",
+        "job": "Product at Amazon",
+        "description": "Product Manager Technical na Amazon, focada na parte de sellers. Amo o universo da computação e inovação. Contem comigo para apoiar na jornada de vocês!"
+      },
+      {
+        "name": "Gabriel T.",
+        "link": "/mentores/mentor/?nome=gabriel-taveira",
+        "image": "Gabriel-taveira-home",
+        "company": "Meta-logo-home",
+        "job": "Mentor at Meta",
+        "description": "Senior Software Engineer na Meta. Já atuou em Engenharia de Software em empresas invoadoras como Zé Delivery, e em mais tradicionais como a Ambev."
+      },
+      {
+        "name": "Vinícius C.",
+        "link": "/mentores/mentor/?nome=vinicius-cardozo",
+        "image": "Vinicius-cardozo-home",
+        "company": "Paypal-home",
+        "job": "Lead Engineer at PayPal",
+        "description": "Lead Engineer at PayPal. Já atuou em empresas como ThoughtWorks, CI&T, Stefanini, entre outras."
+      },
+      {
+        "name": "João B.",
+        "link": "/mentores/mentor/?nome=joao-bosco",
+        "image": "Joao-bosco-home",
+        "company": "Andela-home",
+        "job": "Data Analytics at Andela",
+        "description": "Data Analytics at Andela. Já atuou em empresas como Loft, Pipefy, Accenture, entre outras."
+      },
+      {
+        "name": "Vitor A.",
+        "link": "/mentores/mentor/?nome=vitor-amaral",
+        "image": "Vitor-amaral-home",
+        "company": "Nubank-home",
+        "job": "Sr. Designer at Nubank",
+        "description": "Senior Product Designer at Nubank. Já atuou em empresas como Loft, PagSeguro, Letras, entre outras."
+      },
+      {
+        "name": "Murilo M.",
+        "link": "/mentores/mentor/?nome=murilo-muniz",
+        "image": "Murilo-muniz-home",
+        "company": "Picpay-home",
+        "job": "Product Design at PicPay",
+        "description": "Product Design Manager at PicPay. Já atuou em empresas como Adianta, Quanto, entre outras."
+      },
+      {
+        "name": "Leandro Z.",
+        "link": "/mentores/mentor/?nome=leandro-zanon",
+        "image": "Leandro-zanon-home",
+        "company": "Itau-home",
+        "job": "Data Science at Itaú",
+        "description": "Senior Data Scientist at Itaú. Já atuou em empresas como PicPay, Propz, entre outras."
+      },
+      {
+        "name": "Camila T.",
+        "link": "/mentores/mentor/?nome=camila-teixeira",
+        "image": "Camila-teixeira-home",
+        "company": "Mercado-livre-home",
+        "job": "UX Lead at Mercado Livre",
+        "description": "UX Lead LATAM at Mercado Pago. Já atuou em empresas como Despegar, C6 Bank, Guiabolso, entre outras."
+      },
+      {
+        "name": "Odair B.",
+        "link": "/mentores/mentor/?nome=odair-bonin",
+        "image": "Odair-bonin-home",
+        "company": "Nubank-home",
+        "job": "Tech Manager at Nubank",
+        "description": "Mais de 18 anos trabalhando em desenvolvimento de software como desenvolvedor. Nos últimos 4 anos expandi minha carreira para liderança ágil e instrução profissional."
+      },
+      {
+        "name": "Caroline S.",
+        "link": "/mentores/mentor/?nome=caroline-pretyman",
+        "image": "Caroline-pretyman-home",
+        "company": "Swap-home",
+        "job": "Group Product Manager at Swap",
+        "description": "Group Product Manager at Swap. Já atuou em empresas como Mevo, Vitta, entre outras."
+      },
+      {
+        "name": "Rodrigo L.",
+        "link": "/mentores/mentor/?nome=rodrigo-lorenzi",
+        "image": "Rodrigo-lorenzi-home",
+        "company": "Meta-logo-home",
+        "job": "BI Senior Advisor at Dell",
+        "description": "Global eComm Analytics & BI Senior Advisor na Dell. Com background multidisciplinar já passou por empresas como Cadastra e Paim Comunicação."
+      }
+    ]
+  }
+  

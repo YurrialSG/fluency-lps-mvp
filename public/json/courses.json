@@ -1,0 +1,139 @@
+[
+  {
+    "category": "Design",
+    "icon": "icon-menu-design",
+    "courses": [
+      {
+        "id": 268,
+        "name": "Product Design",
+        "description": "Muito além de apenas UX ou UI, domine metodologias de pesquisa, criação, inovação e avaliação de produtos de tecnologia.",
+        "url": "/curso/product-design"
+      }
+    ]
+  },
+  {
+    "category": "Dados",
+    "icon": "icon-menu-dados",
+    "courses": [
+      {
+        "id": 271,
+        "name": "Data Analytics",
+        "description": "Entenda como analisar e utilizar dados",
+        "url": "/curso/data-analytics"
+      },
+      {
+        "id": 269,
+        "name": "Python",
+        "description": "Dominando as funções, bibliotecas e dicionários mais importantes do mercado de programação e dados.",
+        "url": "/curso/product-design"
+      }
+    ]
+  },
+  {
+    "category": "Programação",
+    "icon": "icon-menu-programacao",
+    "courses": [
+      {
+        "id": 262,
+        "name": "Front End > Essentials",
+        "description": "Explore e se desenvolva em React.js, framework líder de mercado para Front-End. Conheça as tecnologias-base HTML, CSS e Javascript e vá do básico até o avançado no desenvolvimento de aplicativos e sites.",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 263,
+        "name": "Front End > Level Up",
+        "description": "Explore e se desenvolva em React.js, framework líder de mercado para Front-End. Conheça as tecnologias-base HTML, CSS e Javascript e vá do básico até o avançado no desenvolvimento de aplicativos e sites.",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 264,
+        "name": "Front End > Expert",
+        "description": "Explore e se desenvolva em React.js, framework líder de mercado para Front-End. Conheça as tecnologias-base HTML, CSS e Javascript e vá do básico até o avançado no desenvolvimento de aplicativos e sites.",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 270,
+        "name": "Programação Back-End",
+        "description": "Trabalhe com infraestrutura e crie sistemas robustos",
+        "url": "/curso/product-design"
+      }
+    ]
+  },
+  {
+    "category": "Produto",
+    "icon": "icon-menu-produto",
+    "courses": [
+      {
+        "id": 267,
+        "name": "Product Management",
+        "description": "Gerencie estratégias e pessoas em produto",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 266,
+        "name": "Product Owner",
+        "description": "Construa e gerencie backlogs de produtos",
+        "url": "/curso/product-design"
+      }
+    ]
+  },
+  {
+    "category": "Inovação e Gestão",
+    "icon": "icon-menu-business",
+    "courses": [
+      {
+        "id": 265,
+        "name": "Gen IA",
+        "description": "Explore técnicas fundamentais até avançadas de IA",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 257,
+        "name": "Dominando a Inteligência Emocional",
+        "description": "Desenvolva e domine sua inteligência emocional",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 258,
+        "name": "A Arte da Negociação",
+        "description": "Aprimore e desenvolva a arte da negociação",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 259,
+        "name": "Empreendendo com Sucesso",
+        "description": "Descubra o caminho para empreender com sucesso",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 260,
+        "name": "Liderança de Alto Impacto",
+        "description": "Aprenda habilidades para uma liderança impactante",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 261,
+        "name": "Segredos da Alta Performance",
+        "description": "Aprenda habilidades para uma liderança impactante",
+        "url": "/curso/product-design"
+      },
+      {
+        "id": 51,
+        "name": "Comunicação Assertiva",
+        "description": "Entenda as melhores estratégias para se comunicar de maneira assertiva e respeitosa.",
+        "url": "/curso/product-design"
+      }
+    ]
+  },
+  {
+    "category": "Idiomas",
+    "icon": "icon-menu-idiomas",
+    "courses": [
+      {
+        "name": "Inglês",
+        "description": "Acelere o sucesso na carreia com o idioma mais falado no mundo.",
+        "url": "/curso/product-design"
+      }
+    ]
+  }
+]

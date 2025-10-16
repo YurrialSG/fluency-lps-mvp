@@ -1,0 +1,520 @@
+{
+  "Design": [
+    {
+      "name": "Rodrigo H.",
+      "image": "reports-rodrigo-h",
+      "career": "UX Designer",
+      "description": "Se você busca entrar na carreira de UX, o Curso da fluency skills com certeza é essencial para ajudar nessa conquista."
+    },
+    {
+      "name": "Matheus R.",
+      "image": "reports-matheus-r",
+      "career": "UX Designer",
+      "description": "Só tenho mesmo a agradecer por todos os ensinamentos da instrutora Veronica Sartori Tavares e as fantásticas mentorias do Bruno Macedo. Estou extremamente feliz por ter embarcado nesta jornada junto a outros colegas brilhantes e seus projetos fantásticos!!"
+    },
+    {
+      "name": "Susana B.",
+      "image": "reports-susana-b",
+      "career": "UX Designer",
+      "description": "Só quero agradecer a melhor mentora que eu pude ter durante essa jornada, Sabrina Mariano , por toda paciência compreensão. E pela escola que deu todo o ensino e suporte que um aluno precisa. Estou extremamente feliz de ter realizado este curso neste ano, um ano onde eu venho dedicando minha mente totalmente para o meu profissional."
+    },
+    {
+      "name": "Fernanda M.",
+      "image": "reports-fernanda-m",
+      "career": "UX Designer",
+      "description": "Um curso su per completo, com um time extremamente eficiente e capaz."
+    },
+    {
+      "name": "Pâmella S.",
+      "image": "reports-pamella-s",
+      "career": "UX Designer",
+      "description": "Foram 5 meses de muito aprendizado e uma caminhada muito desafiadora. Neste curso eu tive a certeza de que é isso que eu realmente quero seguir e que sinto prazer em estudar."
+    },
+    {
+      "name": "Vanderson L.",
+      "image": "reports-vanderson-l",
+      "career": "UX Designer",
+      "description": "Vou dar o parabéns para fluency skills pela plataforma de ensino, profissionalismo, atendimento, e principalmente pelo conteúdo do curso."
+    },
+    {
+      "name": "Patricia S.",
+      "image": "reports-patricia-s",
+      "career": "UX Designer",
+      "description": "Foram meses intensos de muitos aprendizados e desafios, sempre com pessoas extremamente capacitadas. Obrigada a todos que tive contato da fluency skills, por desde o primeiro dia serem tão atenciosos e receptivos."
+    },
+    {
+      "name": "Jenifer C.",
+      "image": "reports-jenifer-c",
+      "career": "UX Designer",
+      "description": "Gostaria de agradecer a fluency skills pelo suporte durante todo o curso e ao mentor Erick Mazer Yamashita por todo conhecimento e ajuda. Eu aprendi muito com vocês!"
+    },
+    {
+      "name": "Mayara P.",
+      "image": "reports-mayara-p",
+      "career": "UX Designer",
+      "description": "Foram 4 meses de aprendizado, pesquisa e muito trabalho para concluir esse curso riquíssimo de conteúdo. Agradeço a todos que me proporcionaram essa oportunidade de enriquecer mais os meus conhecimentos."
+    },
+    {
+      "name": "Danielle C.",
+      "image": "reports-danielle-c",
+      "career": "UX Designer",
+      "description": "Nessa jornada contei com o time especializado da fluency skills e não poderia deixar de agradecer a minha mentora Thais Ernandes, que enriqueceu demais cada mentoria. Era o melhor momento da minha semana, ficava ansiosa pra sugar cada segundinho das nossas aulas."
+    },
+    {
+      "name": "Carolina C.",
+      "image": "reports-carolina-c",
+      "career": "UX Designer",
+      "description": "Com certeza, tudo o que aprendi neste curso foi muito valioso e me deixou bem mais preparada para os desafios da área."
+    },
+    {
+      "name": "Isabela P.",
+      "image": "reports-isabela-p",
+      "career": "UX Designer",
+      "description": "Gostaria de agradecer a toda equipe, que foi extremamente solícita ao longo de todo o processo, e a todos que me apoiaram ao longo dessa trilha de aprendizado profissional e pessoal."
+    },
+    {
+      "name": "Edivania P.",
+      "image": "reports-edivania-p",
+      "career": "UX Designer",
+      "description": "Terceira aula do curso de UX/UI da fluency skills e muitos aprendizados já foram compartilhados até aqui."
+    },
+    {
+      "name": "Viviane B.",
+      "image": "reports-viviane-b",
+      "career": "UX Designer",
+      "description": "É maravilhoso poder olhar para trás e perceber o quanto eu aprendi e cresci nesses últimos meses! Não foi fácil, mas a jornada foi incrivelmente divertida. Agradeço à fluency skills, por disponibilizar um curso didático com professores e mentores sensacionais!"
+    },
+    {
+      "name": "Natália V.",
+      "image": "reports-natalia-v",
+      "career": "UX Designer",
+      "description": "Gratidão por todo aprendizado até aqui! Obrigada fluency skills por ter colocado no meu caminho profissionais tão incríveis como minha professora mais querida Daniéli Baldassari e meus mentores, que sem eles eu nada seria."
+    },
+    {
+      "name": "Valdir J.",
+      "image": "reports-valdir-j",
+      "career": "UX Designer",
+      "description": "Nos últimos 5 meses eu aprendi demais como ver o mundo de uma outra forma, tirar um pouco o peso da minha própria visão e lidar com o fato que o mundo é enorme."
+    },
+    {
+      "name": "Jonas F.",
+      "image": "reports-jonas-f",
+      "career": "UX Designer",
+      "description": "Agradeço muito à querida instrutora Desirée Sant'Anna Maestri e a minha ótima mentora Gabriela Ribeiro. Foram cinco meses de muitos aprendizado e fico muito feliz pela escolha."
+    },
+    {
+      "name": "Rafael A.",
+      "image": "reports-rafael-a",
+      "career": "UX Designer",
+      "description": "Foi muito massa aprender novos processos, ferramentas e formas de pensar dentro da área de produtos e aplicar tudo na prática. Ao longo do curso abordamos tópicos como UX Research, Arquitetura de Informação, Prototipação e Testes de Usabilidade."
+    },
+    {
+      "name": "Bruna G.",
+      "image": "reports-bruna-g",
+      "career": "UX Designer",
+      "description": "Há 6 meses eu decidi migrar de minha área de formação para UX Design. Meu estudo de caso foi desenvolvido após 5 meses de muito aprendizado como projeto de conclusão do curso de UX Design na fluency skills. Passar por todas as etapas de Product Design foi fundamental para o desenvolvimento do projeto, sempre com foco nas percepções e necessidades do usuário."
+    }
+  ],
+  "Ciência de Dados": [
+    {
+      "name": "Luan A.",
+      "image": "reports-luan-a",
+      "career": "Data Scientist",
+      "description": "É com grande motivação que ingresso hoje a minha carreira na Shopee. Gostaria de agradecer a escola fluency skills e aos profissionais que me auxiliaram."
+    },
+    {
+      "name": "Lays L.",
+      "image": "reports-lays-l",
+      "career": "Product Manager",
+      "description": "Foram 3 meses incríveis no curso de Product Managment na fluency skills. E o resultado? Muito conhecimento prático e uma mentoria que faz a diferença."
+    },
+    {
+      "name": "Pâmella S.",
+      "image": "reports-pamella-s",
+      "career": "UX Designer",
+      "description": "Foram 5 meses de muito aprendizado e uma caminhada muito desafiadora. Neste curso eu tive a certeza de que é isso que eu realmente quero seguir e que sinto prazer em estudar."
+    },
+    {
+      "name": "Thais P.",
+      "image": "reports-thais-p",
+      "career": "Data Scientist",
+      "description": "Foram 4 meses aprendendo mais sobre o universo de Data Science e como trabalho final do curso de Ciência de Dados da fluency skills desenvolvi um sistema de recomendação de livros em Python, o fluency skills Bookstore."
+    },
+    {
+      "name": "Jonas F.",
+      "image": "reports-jonas-f",
+      "career": "UX Designer",
+      "description": "Agradeço muito à querida instrutora Desirée Sant'Anna Maestri e a minha ótima mentora Gabriela Ribeiro. Foram cinco meses de muitos aprendizado e fico muito feliz pela escolha."
+    },
+    {
+      "name": "Luiz Henrique L.",
+      "image": "reports-luiz-henrique-l",
+      "career": "Product Manager",
+      "description": "Este não é mais um certificado ou curso que faço apenas, durante esse período de intensivo aprendi muita coisa que eu não fazia ideia que existia e como era usada no que tange a produto."
+    },
+    {
+      "name": "Fabiana C.",
+      "image": "reports-fabiana-c",
+      "career": "Data Scientist",
+      "description": "Como é fantástico o processo de construção!! Como é prazeroso o poder de definir o seu próprio caminho. fluency skills obrigada pela condução, esta sendo espetacular!!!"
+    },
+    {
+      "name": "Daniel S.",
+      "image": "reports-daniel-s",
+      "career": "Data Scientist",
+      "description": "Deixo os meus agradecimentos ao instrutor João Bosco Mesquita por ter proporcionado ensinamentos relevantes à área, e sem deixar de mencionar o meu mentor Delson Castro pela sua competência, na qual tive boas dicas para prosseguir com meu objetivo."
+    },
+    {
+      "name": "Fernanda M.",
+      "image": "reports-fernanda-m",
+      "career": "UX Designer",
+      "description": "Um curso su per completo, com um time extremamente eficiente e capaz."
+    },
+    {
+      "name": "Fabiana M.",
+      "image": "reports-fabiana-m",
+      "career": "Data Scientist",
+      "description": "Como é fantástico o processo de construção!! Como é prazeroso o poder de definir o seu próprio caminho. fluency skills obrigada pela condução, esta sendo espetacular!!!"
+    },
+    {
+      "name": "Caroline S.",
+      "image": "reports-caroline-s",
+      "career": "Product Manager",
+      "description": "O apoio especializado de carreira que pra mim foi o maior diferencial, me preparou e me ajudou a conseguir minha primeira oportunidade na área de Produtos depois de 2 sessões."
+    },
+    {
+      "name": "Ana Flávia N.",
+      "image": "reports-ana-alavia-n",
+      "career": "Product Manager",
+      "description": "Neste mês iniciei os estudos com o curso de Product Management na fluency skills , onde eu percebo a cada aula que eu estou no caminho certo! Novos aprendizados, que consigo enxergar e aplicar no meu dia a dia como Produtos!"
+    }
+  ],
+  "Gestão de Produtos": [
+    {
+      "name": "Caroline S.",
+      "image": "reports-caroline-s",
+      "career": "Product Manager",
+      "description": "O apoio especializado de carreira que pra mim foi o maior diferencial, me preparou e me ajudou a conseguir minha primeira oportunidade na área de Produtos depois de 2 sessões."
+    },
+    {
+      "name": "Fabio W.",
+      "image": "reports-fabio-w",
+      "career": "Product Manager",
+      "description": "Foi muito rico aprender tanto durante as aulas quanto pela mentoria e suporte a carreira com experts das áreas, conversando sobre a vida de um PM, entendendo o que o mercado vem fazendo e como aprimorar. Tudo me deixou bem mais confiante para o novo desafio em Produto na Shopee."
+    },
+    {
+      "name": "Analice B.",
+      "image": "reports-analice-b",
+      "career": "Product Manager",
+      "description": "Para me auxiliar nessa nova fase, conto com o apoio da fluency skills, uma instituição sensacional! Minha primeira aula (real oficial) foi nessa terça feira e já estou completamente encantada pela riqueza do conteúdo... Hoje teremos o segundo encontro e a ansiedade tá aqui já!"
+    },
+    {
+      "name": "Ana Flávia N.",
+      "image": "reports-ana-alavia-n",
+      "career": "Product Manager",
+      "description": "Neste mês iniciei os estudos com o curso de Product Management na fluency skills , onde eu percebo a cada aula que eu estou no caminho certo! Novos aprendizados, que consigo enxergar e aplicar no meu dia a dia como Produtos!"
+    },
+    {
+      "name": "Luiz Henrique L.",
+      "image": "reports-luiz-henrique-l",
+      "career": "Product Manager",
+      "description": "Este não é mais um certificado ou curso que faço apenas, durante esse período de intensivo aprendi muita coisa que eu não fazia ideia que existia e como era usada no que tange a produto."
+    },
+    {
+      "name": "Leon .H",
+      "image": "reports-leon-h",
+      "career": "Product Manager",
+      "description": "Finalizei meu curso na fluency skills e as mudanças recentes que tive em minha vida não teriam acontecido se não fosse a ajuda do Pedro Américo Tângari.  E o aprendizado que fica é: junte-se aos melhores e sempre esteja disposto a aprender."
+    },
+    {
+      "name": "Tais R.",
+      "image": "reports-tais-r",
+      "career": "Product Manager",
+      "description": "Iniciei o curso de Product Management na fluency skills, com a professora Luiza Sangalli. Agradeço a indicação e o apoio da minha namorada Patricia Torato, 'produteira' de raça e coragem."
+    },
+    {
+      "name": "Patricia R.",
+      "image": "reports-patricia-r",
+      "career": "Product Manager",
+      "description": "Foram meses intensos de muitos aprendizados e desafios, sempre com pessoas extremamente capacitadas para me auxiliar e me ensinar com total abertura para esclarecer todas minhas dúvidas. Obrigada a todos que tive contato da fluency skills, por desde o primeiro dia serem tão atenciosos e receptivos"
+    },
+    {
+      "name": "Gustavo A.",
+      "image": "reports-austavo-a",
+      "career": "Product Manager",
+      "description": "Feliz demais com mais essa etapa da minha vida profissional concluída! Agradeço demais as pessoas que também fizeram parte dessa trilha, meu mentor e amigo que conquistei nessa jornada, Augusto Pierzynski, e a fluency skills por ter disponibilizado as ferramentas para que isso tudo pudesse acontecer."
+    },
+    {
+      "name": "Fabricio B.",
+      "image": "reports-fabricio-b",
+      "career": "Product Manager",
+      "description": "Acredito que a fluency skills foi a decisão mais correta que tomei ao buscar a migração de carreira. Com o curso aprendi gestão de produtos na prática, aplicando todo conhecimento adquirido nas aulas, no meu próprio projeto de produto."
+    },
+    {
+      "name": "Lays L.",
+      "image": "reports-lays-l",
+      "career": "Product Manager",
+      "description": "Foram 3 meses incríveis no curso de Product Managment na fluency skills. E o resultado? Muito conhecimento  prático e uma mentoria que faz a diferença."
+    },
+    {
+      "name": "Karuline F.",
+      "image": "reports-karuline-f",
+      "career": "Product Manager",
+      "description": "O curso não me trouxe apenas conhecimento na área de produto, mas ele me ajudou muito na minha descoberta pessoal, medos e incertezas. Por isso sou grata demais pelas pessoas que passaram no meu caminho durante essa jornada!"
+    },
+    {
+      "name": "Matheus R.",
+      "image": "reports-matheus-r",
+      "career": "Product Manager",
+      "description": "Haviam diversos cursos e materiais mas nada que me trouxesse tanta proximidade. Até que eu achei o curso da fluency skills onde pude verificar qualidade, conexão e crescimento. Foram três meses de muito aprendizado, mudanças, desafios, disciplina e paixão."
+    }
+  ],
+  "Programação": [
+    {
+      "name": "Gustavo F.",
+      "image": "reports-gustavo-f",
+      "career": "Web Developer",
+      "description": "Estou feliz com a minha evolução, graças a fluency skills, o professor David Dimon e a Rafaella Ballerini Ribeiro Gomes que tem me ajudado a evoluir como desenvolvedor web."
+    },
+    {
+      "name": "Caroline S.",
+      "image": "reports-caroline-s",
+      "career": "Product Manager",
+      "description": "O apoio especializado de carreira que pra mim foi o maior diferencial, me preparou e me ajudou a conseguir minha primeira oportunidade na área de Produtos depois de 2 sessões."
+    },
+    {
+      "name": "Natália V.",
+      "image": "reports-natalia-v",
+      "career": "Product Designer",
+      "description": "Gratidão por todo aprendizado até aqui! Obrigada fluency skills por ter colocado no meu caminho profissionais tão incríveis como minha professora mais querida Daniéli Baldassari e meus mentores, que sem eles eu nada seria."
+    },
+    {
+      "name": "Fabio W.",
+      "image": "reports-fabio-w",
+      "career": "Product Manager",
+      "description": "Foi muito rico aprender tanto durante as aulas quanto pela mentoria e suporte a carreira com experts das áreas, conversando sobre a vida de um PM, entendendo o que o mercado vem fazendo e como aprimorar. Tudo me deixou bem mais confiante para o novo desafio em Produto na Shopee."
+    },
+    {
+      "name": "Vanderson L.",
+      "image": "reports-vanderson-l",
+      "career": "UX Designer",
+      "description": "Vou dar o parabéns para fluency skills pela plataforma de ensino, profissionalismo, atendimento, e principalmente pelo conteúdo do curso."
+    },
+    {
+      "name": "Mayara P.",
+      "image": "reports-mayara-p",
+      "career": "UX Designer",
+      "description": "Foram 4 meses de aprendizado, pesquisa e muito trabalho para concluir esse curso riquíssimo de conteúdo. Agradeço a todos que me proporcionaram essa oportunidade de enriquecer mais os meus conhecimentos."
+    },
+    {
+      "name": "Pâmella S.",
+      "image": "reports-pamella-s",
+      "career": "UX Designer",
+      "description": "Foram 5 meses de muito aprendizado e uma caminhada muito desafiadora. Neste curso eu tive a certeza de que é isso que eu realmente quero seguir e que sinto prazer em estudar."
+    },
+    {
+      "name": "Danielle C.",
+      "image": "reports-danielle-c",
+      "career": "UX Designer",
+      "description": "Nessa jornada contei com o time especializado da fluency skills e não poderia deixar de agradecer a minha mentora Thais Ernandes, que enriqueceu demais cada mentoria. Era o melhor momento da minha semana, ficava ansiosa pra sugar cada segundinho das nossas aulas."
+    },
+    {
+      "name": "Fabiana C.",
+      "image": "reports-fabiana-c",
+      "career": "Data Scientist",
+      "description": "Como é fantástico o processo de construção!! Como é prazeroso o poder de definir o seu próprio caminho. fluency skills obrigada pela condução, esta sendo espetacular!!!"
+    },
+    {
+      "name": "Daniel S.",
+      "image": "reports-daniel-s",
+      "career": "Data Scientist",
+      "description": "Deixo os meus agradecimentos ao instrutor João Bosco Mesquita por ter proporcionado ensinamentos relevantes à área, e sem deixar de mencionar o meu mentor Delson Castro pela sua competência, na qual tive boas dicas para prosseguir com meu objetivo."
+    },
+    {
+      "name": "Isabela P.",
+      "image": "reports-isabela-p",
+      "career": "UX Designer",
+      "description": "Gostaria de agradecer a toda equipe, que foi extremamente solícita ao longo de todo o processo, e a todos que me apoiaram ao longo dessa trilha de aprendizado profissional e pessoal."
+    },
+    {
+      "name": "Fabricio B.",
+      "image": "reports-fabricio-b",
+      "career": "Product Manager",
+      "description": "Acredito que a fluency skills foi a decisão mais correta que tomei ao buscar a migração de carreira. Com o curso aprendi gestão de produtos na prática, aplicando todo conhecimento adquirido nas aulas, no meu próprio projeto de produto."
+    },
+    {
+      "name": "Luan A.",
+      "image": "reports-luan-a",
+      "career": "Data Scientist",
+      "description": "É com grande motivação que ingresso hoje a minha carreira na Shopee. Gostaria de agradecer a escola fluency skills e aos profissionais que me auxiliaram."
+    },
+    {
+      "name": "Lays L.",
+      "image": "reports-lays-l",
+      "career": "Product Manager",
+      "description": "Foram 3 meses incríveis no curso de Product Managment na fluency skills. E o resultado? Muito conhecimento prático e uma mentoria que faz a diferença."
+    },
+    {
+      "name": "Valdir J.",
+      "image": "reports-valdir-j",
+      "career": "UX Designer",
+      "description": "Nos últimos 5 meses eu aprendi demais como ver o mundo de uma outra forma, tirar um pouco o peso da minha própria visão e lidar com o fato que o mundo é enorme."
+    }
+  ],
+  "Business": [
+    {
+      "name": "Caroline S.",
+      "image": "reports-caroline-s",
+      "career": "Product Manager",
+      "description": "O apoio especializado de carreira que pra mim foi o maior diferencial, me preparou e me ajudou a conseguir minha primeira oportunidade na área de Produtos depois de 2 sessões."
+    },
+    {
+      "name": "Fabio W.",
+      "image": "reports-fabio-w",
+      "career": "Product Manager",
+      "description": "Foi muito rico aprender tanto durante as aulas quanto pela mentoria e suporte a carreira com experts das áreas, conversando sobre a vida de um PM, entendendo o que o mercado vem fazendo e como aprimorar. Tudo me deixou bem mais confiante para o novo desafio em Produto na Shopee."
+    },
+    {
+      "name": "Vanderson L.",
+      "image": "reports-vanderson-l",
+      "career": "UX Designer",
+      "description": "Vou dar o parabéns para fluency skills pela plataforma de ensino, profissionalismo, atendimento, e principalmente pelo conteúdo do curso."
+    },
+    {
+      "name": "Danielle C.",
+      "image": "reports-danielle-c",
+      "career": "UX Designer",
+      "description": "Nessa jornada contei com o time especializado da fluency skills e não poderia deixar de agradecer a minha mentora Thais Ernandes, que enriqueceu demais cada mentoria. Era o melhor momento da minha semana, ficava ansiosa pra sugar cada segundinho das nossas aulas."
+    },
+    {
+      "name": "Fabiana C.",
+      "image": "reports-fabiana-c",
+      "career": "Data Scientist",
+      "description": "Como é fantástico o processo de construção!! Como é prazeroso o poder de definir o seu próprio caminho. fluency skills obrigada pela condução, esta sendo espetacular!!!"
+    },
+    {
+      "name": "Daniel S.",
+      "image": "reports-daniel-s",
+      "career": "Data Scientist",
+      "description": "Deixo os meus agradecimentos ao instrutor João Bosco Mesquita por ter proporcionado ensinamentos relevantes à área, e sem deixar de mencionar o meu mentor Delson Castro pela sua competência, na qual tive boas dicas para prosseguir com meu objetivo."
+    },
+    {
+      "name": "Valdir J.",
+      "image": "reports-valdir-j",
+      "career": "UX Designer",
+      "description": "Nos últimos 5 meses eu aprendi demais como ver o mundo de uma outra forma, tirar um pouco o peso da minha própria visão e lidar com o fato que o mundo é enorme."
+    }
+  ],
+  "Marketing": [
+    {
+      "name": "Fernanda R.",
+      "image": "fernanda-rocha-support",
+      "career": "Coordenadora de Product Marketing at Olist",
+      "description": "Mais de 8 anos de experiência em marketing em startup de hiper crescimento no segmento de e-commerce."
+    },
+    {
+      "name": "Clarice N.",
+      "image": "clarice-nassar-support",
+      "career": "Senior Product Manager at Nubank",
+      "description": "Senior Product Manager at Nubank, já atuou em empresas como Ambev, Austral Education Group, entre outras."
+    },
+    {
+      "name": "Danilo R.",
+      "image": "danilo-roselli-support",
+      "career": "Product Manager at Mercado Livre",
+      "description": "8 anos em produtos digitais, empreendendo e atuando em produto em empresas como Unico, Revelo, Guiabolso e atualmente no Mercado Livre."
+    },
+    {
+      "name": "Pedro B.",
+      "image": "pedro-blumenschein-support",
+      "career": "Sr. Product Manager at Bitpanda",
+      "description": "Senior Product Manager at Bitpanda, com experiencia no Brasil e no exterior, em Unicórnios e Startups. Atuandohoje no segmento de Fintech e Crypto exchange."
+    },
+    {
+      "name": "Patricia T.",
+      "image": "patricia-torato-support",
+      "career": "Group Product Manager at Sólides",
+      "description": "16 anos de experiência em negócios, inovação e startups, sendo 6 anos na área de produtos digitais."
+    },
+    {
+      "name": "Gustavo L.",
+      "image": "gustavo-loterio-support",
+      "career": "Group Product Manager at Grupo Boticário",
+      "description": "Atuo há 06 anos com gestão de produtos digitais e já passei por empresas líderes em seus setores, como Vivo e Ebanx. Atualmente lidero o time de produto de Banking do Grupo Boticário."
+    },
+    {
+      "name": "Amanda F.",
+      "image": "amanda-farias-support",
+      "career": "Product Manager at RX PRO",
+      "description": "Atuação há 7 anos na área de Product Management, e 11 anos na área de digital, com forte background em marketing, growth e UX"
+    }
+  ],
+  "Default": [
+    {
+      "name": "Caroline S.",
+      "image": "Caroline-s-reports",
+      "career": "Product Manager",
+      "description": "O apoio especializado de carreira que pra mim foi o maior diferencial, me preparou e me ajudou a conseguir minha primeira oportunidade na área de Produtos depois de 2 sessões."
+    },
+    {
+      "name": "Rodrigo H.",
+      "image": "Rodrigo-h-reports",
+      "career": "UX Designer",
+      "description": "Se você busca entrar na carreira de UX, o Curso da fluency skills com certeza é essencial para ajudar nessa conquista."
+    },
+    {
+      "name": "Natália V.",
+      "image": "Natalia-v-reports",
+      "career": "Product Designer",
+      "description": "Gratidão por todo aprendizado até aqui! Obrigada fluency skills por ter colocado no meu caminho profissionais tão incríveis como minha professora mais querida Daniéli Baldassari e meus mentores, que sem eles eu nada seria."
+    },
+    {
+      "name": "Vanderson L.",
+      "image": "Vanderson-l-reports",
+      "career": "UX Designer",
+      "description": "Vou dar o parabéns para fluency skills pela plataforma de ensino, profissionalismo, atendimento, e principalmente pelo conteúdo do curso."
+    },
+    {
+      "name": "Patricia S.",
+      "image": "Patricia-s-reports",
+      "career": "UX Designer",
+      "description": "Foram meses intensos de muitos aprendizados e desafios, sempre com pessoas extremamente capacitadas. Obrigada a todos que tive contato da fluency skills, por desde o primeiro dia serem tão atenciosos e receptivos."
+    },
+    {
+      "name": "Jenifer C.",
+      "image": "Jenifer-c-reports",
+      "career": "UX Designer",
+      "description": "Gostaria de agradecer a fluency skills pelo suporte durante todo o curso e ao mentor Erick Mazer Yamashita por todo conhecimento e ajuda. Eu aprendi muito com vocês!"
+    },
+    {
+      "name": "Fabiana C.",
+      "image": "Fabiana-c-reports",
+      "career": "Data Scientist",
+      "description": "Como é fantástico o processo de construção!! Como é prazeroso o poder de definir o seu próprio caminho. fluency skills obrigada pela condução, esta sendo espetacular!!!"
+    },
+    {
+      "name": "Carolina C.",
+      "image": "Carolina-c-reports",
+      "career": "UX Designer",
+      "description": "Com certeza, tudo o que aprendi neste curso foi muito valioso e me deixou bem mais preparada para os desafios da área."
+    },
+    {
+      "name": "Fabricio B.",
+      "image": "Fabricio-b-reports",
+      "career": "Product Manager",
+      "description": "Acredito que a fluency skills foi a decisão mais correta que tomei ao buscar a migração de carreira. Com o curso aprendi gestão de produtos na prática, aplicando todo conhecimento adquirido nas aulas, no meu próprio projeto de produto."
+    },
+    {
+      "name": "Luan A.",
+      "image": "Luan-a-reports",
+      "career": "Data Scientist",
+      "description": "É com grande motivação que ingresso hoje a minha carreira na Shopee. Gostaria de agradecer a escola fluency skills e aos profissionais que me auxiliaram."
+    },
+    {
+      "name": "Lays L.",
+      "image": "Lays-l-reports",
+      "career": "Product Manager",
+      "description": "Foram 3 meses incríveis no curso de Product Managment na fluency skills. E o resultado? Muito conhecimento prático e uma mentoria que faz a diferença."
+    }
+  ]
+}
